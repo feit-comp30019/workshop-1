@@ -30,7 +30,7 @@ open it in Unity. This can be done easily with *Unity Hub*, which is an
 application that manages Unity installations and projects on your computer (it
 should be automatically bundled with your install). Once you've launched Unity
 Hub, ensure the 'Projects' tab on the left-hand panel is currently selected.
-Then, click 'Open' and navigate to the locally cloned repository. Opening it
+Then, click 'Add' > 'Add Project From Disk' and navigate to the locally cloned repository. Opening it
 will add it to the list of tracked projects in the same window. Now simply
 click on the project to open it in Unity.
 
